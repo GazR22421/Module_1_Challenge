@@ -5,10 +5,8 @@
 Refactored code to optimize SEO performance and provide user accessibilty for disabled users.
 
 To do this I restructed the HTML file using semantics to group sections which follows a structure that google would prefer. Doing this also allowed me to make edits to the CSS file quicker and allowed me to make classes within the CSS code make changes to more than once part of the HMTL code at a time (see picture below for example of the services class which factors in 3 different sections) 
-```md
-(assets/images/services.gif)
-```
 
+https://github.com/GazR22421/Module_1_Challenge/blob/main/assets/images/Services%20.gif
 
 In addition to this I used alt to provide image description for the visually impared.
 
